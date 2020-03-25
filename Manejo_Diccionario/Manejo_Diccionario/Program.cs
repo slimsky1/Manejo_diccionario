@@ -40,7 +40,7 @@ namespace Manejo_Diccionario
             {
                 Console.WriteLine();
                 values["Mariana"] = "58251425";
-                Console.WriteLine("Indice: Mariana Valor: " + values["Mariana"]);
+                Console.WriteLine("Nuevo teléfono de Mariana: " + values["Mariana"]);
             }
 
         }
